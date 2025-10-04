@@ -1,3 +1,5 @@
+Note 2025-10-04: tried to update to zig 0.15. Dependencies were not ready yet.
+
 ```
 zig build
 ```
